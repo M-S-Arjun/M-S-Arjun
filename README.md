@@ -1,6 +1,12 @@
-# 💫 About Me:
-# 👋 Hey there! I'm M S Arjun<br><br>🎓 AI Enthusiast | 💻 Full-Stack Developer | 📊 Resume Analyzer | 🤖 Chatbot Creator<br><br>---<br><br><img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/M-S-Arjun/M-S-Arjun/main/assets/developer.svg"><br><br>## 🙋‍♂ About Me :<br><br>🛰 I’m currently working on  <br>→ AI-powered Recruitment Portal (ATS Score, Job Search, Interview Bot)<br><br>🤝 I’m looking to collaborate on  <br>→ ML/NLP Projects, Resume Analyzers, Job Platforms<br><br>🌱 I’m currently learning  <br>→ Flutter, FastAPI<br><br>💬 Ask me about  <br>→ Python backends, scraping job data, ATS optimization<br><br>⚡ Fun fact  <br>→ I built my first chatbot to help friends prepare for interviews — it now helps many 🎯<br>
+<div style="font-size:12px">
 
+<!-- Your entire markdown content here -->
+# 💫 About Me:
+👋 Hey there! I'm M S Arjun<br><br>🎓 AI Enthusiast | 💻 Full-Stack Developer | 📊 Resume Analyzer | 🤖 Chatbot Creator<br><br>---<br><br><img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/M-S-Arjun/M-S-Arjun/main/assets/developer.svg"><br><br>...
+
+<!-- All other content like socials, tech stack, stats, etc. -->
+
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/arjun.ms.7524/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/arjun_.ms/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ms-arjun/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@arjunms1503) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arjunmstdpa@gmail.com) 
