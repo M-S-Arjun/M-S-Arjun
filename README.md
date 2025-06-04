@@ -2,7 +2,7 @@
 
 <!-- Your entire markdown content here -->
 # 💫 About Me:
-👋 Hey there! I'm M S Arjun<br><br>🎓 AI Enthusiast | 💻 Full-Stack Developer | 📊 Resume Analyzer | 🤖 Chatbot Creator<br><br>---<br><br><img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/M-S-Arjun/M-S-Arjun/main/assets/developer.svg"><br><br>...
+👋 Hey there! I'm M S Arjun<br><br>🎓 AI Enthusiast | 💻 Full-Stack Developer | 📊 Resume Analyzer | 🤖 Chatbot Creator<br><br>
 
 <!-- All other content like socials, tech stack, stats, etc. -->
 
